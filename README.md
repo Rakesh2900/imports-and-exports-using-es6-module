@@ -8,3 +8,4 @@ Import the array in the `importArray.mjs` file.
 
 <b>Use the ES6 module syntax</b>.
 # imports-and-exports-using-es6-module
+# imports-and-exports-using-es6-module
